@@ -4,20 +4,17 @@
 
 - 🔭 I’m currently working on [MauPedia](https://maupedia.com) , **Flutter** and **Android Development**
 - 🌱 I’m currently learning **Flutter, Mobile Development**
-- 💼 I’m pursuing a Bachelor of Informatics Engineering degree
+- 🌐 Portfolio/CV/Resume [aamfahrur.com](https://aamfahrur.com)
 - 📫 How to reach me: tanya@aamfahrur.com 
 - ⚡ Fun fact: nothing.
-  
-
-## My Github Performance Overall
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aamfahrur&show_icons=true&count_private=true)
-
 
 ### Connect with me
 
 [<img height="24" width="24" align= "left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedln]
 [<img height="24" width="24" align= "left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/>][medium]
+[<img height="24" width="24" align= "left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>][twitter]
+[<img height="24" width="24" align= "left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>][facebook]
+[<img height="24" width="24" align= "left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>][instagram]
 [<img height="24" width="24" align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png"/>](mailto:aamfahrur@gmail.com)
 
 <br/>
@@ -34,6 +31,9 @@
 [<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="25" height="25" />][dart]
 
 [linkedln]:https://linkedin.com/in/aamfahrur
+[twitter]:https://twitter.com/aamfahrur
+[facebook]:https://facebook.com/aamfahrur
+[instagram]:https://instagram.com/aamfahrur
 [medium]:https://medium.com/@aamfahrur
 [android]:https://developer.android.com/
 [kotlin]:https://kotlinlang.org/
