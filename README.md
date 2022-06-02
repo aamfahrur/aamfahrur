@@ -18,7 +18,7 @@
 
 [<img height="24" width="24" align= "left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedln]
 [<img height="24" width="24" align= "left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/>][medium]
-[<img height="24" width="24" align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png"/>](mailto:sibelyldz2012@gmail.com)
+[<img height="24" width="24" align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png"/>](mailto:aamfahrur@gmail.com)
 
 <br/>
 <hr>
@@ -33,8 +33,8 @@
 [<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="25" height="25" />][flutter]
 [<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="25" height="25" />][dart]
 
-[linkedln]:https://www.linkedin.com/in/sibelyiildz/
-[medium]:https://medium.com/@sibelyiildz
+[linkedln]:https://linkedin.com/in/aamfahrur
+[medium]:https://medium.com/@aamfahrur
 [android]:https://developer.android.com/
 [kotlin]:https://kotlinlang.org/
 [git]:https://git-scm.com/
