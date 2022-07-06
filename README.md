@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [MauPedia](https://maupedia.com) , **Flutter** and **Android Development**
 - 🌱 I’m currently learning **Flutter, Mobile Development**
 - 🌐 Portfolio/CV/Resume [aamfahrur.com](https://aamfahrur.com)
-- 📫 How to reach me: tanya@aamfahrur.com 
+- 📫 How to reach me: hello@aamfahrur.com 
 - ⚡ Fun fact: nothing.
 
 ### Connect with me
