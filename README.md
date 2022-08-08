@@ -14,7 +14,7 @@
 [<img height="24" width="24" align= "left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>][twitter]
 [<img height="24" width="24" align= "left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>][facebook]
 [<img height="24" width="24" align= "left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>][instagram]
-[<img height="24" width="24" align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png"/>](mailto:aamfahrur@gmail.com)
+[<img height="24" width="24" align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png"/>](mailto:hello@aamfahrur.com)
 
 <br/>
 <hr>
