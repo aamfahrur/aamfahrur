@@ -1,8 +1,8 @@
-# Hi there 👋,  <br> I'm Aam Fahrur Rozi
+# Hi there 👋,  <br> I'm Aam Fahrur
 
 ## Information
 
-- 🔭 I’m currently working on [MauPedia](https://maupedia.com) , **Flutter** and **Android Development**
+- 🔭 I’m currently working on [ViPay](https://vipay.id) , **Flutter** and **Android Development**
 - 🌱 I’m currently learning **Flutter, Mobile Development**
 - 🌐 Portfolio/CV/Resume [aamfahrur.com](https://aamfahrur.com)
 - 📫 How to reach me: hello@aamfahrur.com 
